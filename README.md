@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mercy-Coker
+- 👋 Hi, I’m Mercy Coker
 - 👀 I’m a data analyst and a Biochemist
 - 🌱 I’m currently learning Power BI
 - 💞️ I’m looking to collaborate on data analysis projects, volunteer or otherwise
